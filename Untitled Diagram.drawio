@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T01:18:42.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="IOXCsBRGwQQtENmkX5g5" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T01:23:47.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="cqvS6z68UPPjVtFtVBf5" version="13.7.7" type="github">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
     <mxGraphModel dx="1445" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -10,13 +10,13 @@
         <mxCell id="r8OwfYiXTvmHwOKNOA3X-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="300" width="720" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="r8OwfYiXTvmHwOKNOA3X-1" value="Application Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r8OwfYiXTvmHwOKNOA3X-1" value="Application Server(s)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r8OwfYiXTvmHwOKNOA3X-2" value="Gateway Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r8OwfYiXTvmHwOKNOA3X-2" value="Gateway Server(s)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r8OwfYiXTvmHwOKNOA3X-3" value="Database Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r8OwfYiXTvmHwOKNOA3X-3" value="Database Server(s)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8OwfYiXTvmHwOKNOA3X-4" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r8OwfYiXTvmHwOKNOA3X-2" target="r8OwfYiXTvmHwOKNOA3X-1">
